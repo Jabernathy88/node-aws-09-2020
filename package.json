@@ -1,0 +1,24 @@
+{
+  "name": "aws-09-2020",
+  "version": "1.0.0",
+  "description": "Test postgres RDS cloud database",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pg": "^8.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jabernathy88/node-aws-09-2020.git"
+  },
+  "author": "Jeremy Abernathy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jabernathy88/node-aws-09-2020/issues"
+  },
+  "homepage": "https://github.com/Jabernathy88/node-aws-09-2020#readme"
+}
